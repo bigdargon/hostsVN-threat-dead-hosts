@@ -13,7 +13,7 @@
         "Dynadot LLC": 1,
         "Dynadot, LLC": 1,
         "GMO": 3,
-        "GMO Internet, Inc. d/b/a Onamae.com": 15,
+        "GMO Internet, Inc. d/b/a Onamae.com": 14,
         "Gandi SAS": 1,
         "Gname.com Pte. Ltd.": 5,
         "Go Australia Domains Inc": 1,
@@ -50,7 +50,7 @@
         "REGRU-SU": 1,
         "RU-CENTER-RU": 1,
         "Realtime Register B.V.": 1,
-        "Sav.com, LLC": 2,
+        "Sav.com, LLC": 3,
         "Sav.com, LLC- 5": 1,
         "Stichting Registrar of Last Resort Foundation": 1,
         "URL Solutions Inc.": 1,
@@ -78,7 +78,7 @@
         "Dynadot LLC": 0.2724795640326976,
         "Dynadot, LLC": 0.2724795640326976,
         "GMO": 0.8174386920980926,
-        "GMO Internet, Inc. d/b/a Onamae.com": 4.087193460490464,
+        "GMO Internet, Inc. d/b/a Onamae.com": 3.8147138964577656,
         "Gandi SAS": 0.2724795640326976,
         "Gname.com Pte. Ltd.": 1.3623978201634876,
         "Go Australia Domains Inc": 0.2724795640326976,
@@ -115,7 +115,7 @@
         "REGRU-SU": 0.2724795640326976,
         "RU-CENTER-RU": 0.2724795640326976,
         "Realtime Register B.V.": 0.2724795640326976,
-        "Sav.com, LLC": 0.5449591280653951,
+        "Sav.com, LLC": 0.8174386920980926,
         "Sav.com, LLC- 5": 0.2724795640326976,
         "Stichting Registrar of Last Resort Foundation": 0.2724795640326976,
         "URL Solutions Inc.": 0.2724795640326976,
@@ -127,6 +127,6 @@
         "eNom, LLC": 0.2724795640326976,
         "iNET CORPORATION": 2.7247956403269753,
         "iNET Corporation": 0.5449591280653951,
-        "total": 99.99999999999996
+        "total": 99.99999999999994
     }
 }
