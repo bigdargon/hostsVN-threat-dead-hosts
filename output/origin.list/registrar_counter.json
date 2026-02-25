@@ -1,20 +1,24 @@
 {
     "counter": {
-        "Communigal Communications Ltd": 4,
+        "8648255 CANADA LTD. O/A Dynadot LLC": 2,
+        "Communigal Communications Ltd": 6,
         "Dynadot Inc": 2,
         "Gname.com Pte. Ltd.": 4,
         "GoDaddy.com, LLC": 2,
+        "Name.com, Inc.": 2,
         "Namecheap": 2,
         "eDomains LLC": 2,
-        "total": 16
+        "total": 22
     },
     "percentage": {
-        "Communigal Communications Ltd": 25.0,
-        "Dynadot Inc": 12.5,
-        "Gname.com Pte. Ltd.": 25.0,
-        "GoDaddy.com, LLC": 12.5,
-        "Namecheap": 12.5,
-        "eDomains LLC": 12.5,
+        "8648255 CANADA LTD. O/A Dynadot LLC": 9.090909090909092,
+        "Communigal Communications Ltd": 27.272727272727273,
+        "Dynadot Inc": 9.090909090909092,
+        "Gname.com Pte. Ltd.": 18.181818181818183,
+        "GoDaddy.com, LLC": 9.090909090909092,
+        "Name.com, Inc.": 9.090909090909092,
+        "Namecheap": 9.090909090909092,
+        "eDomains LLC": 9.090909090909092,
         "total": 100.0
     }
 }
