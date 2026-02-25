@@ -1,30 +1,34 @@
 {
     "counter": {
         "8648255 CANADA LTD. O/A Dynadot LLC": 2,
-        "Communigal Communications Ltd": 6,
+        "Communigal Communications Ltd": 8,
         "Dynadot Inc": 2,
-        "Gname.com Pte. Ltd.": 6,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 2,
+        "Gname.com Pte. Ltd.": 8,
         "GoDaddy.com, LLC": 4,
         "HOSTINGER operations, UAB": 4,
         "Name.com, Inc.": 2,
-        "Namecheap": 2,
+        "Namecheap": 4,
         "Porkbun, LLC": 2,
+        "Sav.com LLC": 2,
         "URL Solutions Inc.": 2,
         "eDomains LLC": 2,
-        "total": 34
+        "total": 44
     },
     "percentage": {
-        "8648255 CANADA LTD. O/A Dynadot LLC": 5.882352941176471,
-        "Communigal Communications Ltd": 17.647058823529413,
-        "Dynadot Inc": 5.882352941176471,
-        "Gname.com Pte. Ltd.": 17.647058823529413,
-        "GoDaddy.com, LLC": 11.764705882352942,
-        "HOSTINGER operations, UAB": 11.764705882352942,
-        "Name.com, Inc.": 5.882352941176471,
-        "Namecheap": 5.882352941176471,
-        "Porkbun, LLC": 5.882352941176471,
-        "URL Solutions Inc.": 5.882352941176471,
-        "eDomains LLC": 5.882352941176471,
-        "total": 100.0
+        "8648255 CANADA LTD. O/A Dynadot LLC": 4.545454545454546,
+        "Communigal Communications Ltd": 18.181818181818183,
+        "Dynadot Inc": 4.545454545454546,
+        "GMO Internet Group, Inc. d/b/a Onamae.com": 4.545454545454546,
+        "Gname.com Pte. Ltd.": 18.181818181818183,
+        "GoDaddy.com, LLC": 9.090909090909092,
+        "HOSTINGER operations, UAB": 9.090909090909092,
+        "Name.com, Inc.": 4.545454545454546,
+        "Namecheap": 9.090909090909092,
+        "Porkbun, LLC": 4.545454545454546,
+        "Sav.com LLC": 4.545454545454546,
+        "URL Solutions Inc.": 4.545454545454546,
+        "eDomains LLC": 4.545454545454546,
+        "total": 100.00000000000001
     }
 }
