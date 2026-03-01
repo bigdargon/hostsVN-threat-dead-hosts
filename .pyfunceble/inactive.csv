@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-rest.redirectme.net,AVAILABILITY,origin.list,2026-02-28 17:06:49.316032+00:00
-mcnodes.zapto.org,AVAILABILITY,origin.list,2026-02-28 17:06:49.433356+00:00
-techcombank.ngan-hang.net,AVAILABILITY,origin.list,2026-02-28 17:06:49.951960+00:00
-xtgfujmknprb.ru,AVAILABILITY,origin.list,2026-02-28 17:06:56.092493+00:00
 0088shop.com,AVAILABILITY,origin.list,2026-02-28 21:05:52.349529+00:00
 009855.com,AVAILABILITY,origin.list,2026-02-28 21:05:52.465711+00:00
 0fb.co,AVAILABILITY,origin.list,2026-02-28 21:05:52.848397+00:00
@@ -3940,3 +3936,7 @@ fairu-schnellvpn.xyz,AVAILABILITY,origin.list,2026-03-01 17:02:38.069247+00:00
 privatproxy-blog.xyz,AVAILABILITY,origin.list,2026-03-01 17:04:55.203795+00:00
 hzmksreiuojy.ru,AVAILABILITY,origin.list,2026-03-01 17:09:00.036138+00:00
 balamall.shop,AVAILABILITY,origin.list,2026-03-01 17:09:10.392540+00:00
+mcnodes.zapto.org,AVAILABILITY,origin.list,2026-03-01 21:07:40.577884+00:00
+rest.redirectme.net,AVAILABILITY,origin.list,2026-03-01 21:07:40.637584+00:00
+techcombank.ngan-hang.net,AVAILABILITY,origin.list,2026-03-01 21:07:41.252350+00:00
+xtgfujmknprb.ru,AVAILABILITY,origin.list,2026-03-01 21:07:52.060981+00:00
