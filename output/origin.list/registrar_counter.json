@@ -14,8 +14,9 @@
         "NameSilo, LLC": 2,
         "Namecheap": 4,
         "Nhan Hoa Software Company Ltd": 2,
-        "Porkbun, LLC": 4,
+        "Porkbun, LLC": 2,
         "URL Solutions Inc.": 2,
+        "Wild Bunch Domains, LLC": 2,
         "total": 48
     },
     "percentage": {
@@ -33,8 +34,9 @@
         "NameSilo, LLC": 4.166666666666667,
         "Namecheap": 8.333333333333334,
         "Nhan Hoa Software Company Ltd": 4.166666666666667,
-        "Porkbun, LLC": 8.333333333333334,
+        "Porkbun, LLC": 4.166666666666667,
         "URL Solutions Inc.": 4.166666666666667,
+        "Wild Bunch Domains, LLC": 4.166666666666667,
         "total": 100.0
     }
 }
