@@ -7,7 +7,7 @@
         "GMO Internet Group, Inc. d/b/a Onamae.com": 8,
         "GNAME.COM PTE. LTD.": 2,
         "Global Domain Group LLC": 2,
-        "Gname.com Pte. Ltd.": 14,
+        "Gname.com Pte. Ltd.": 16,
         "HOSTINGER operations, UAB": 6,
         "NAMEMART PTE. LTD.": 2,
         "NameCheap, Inc.": 8,
@@ -19,7 +19,6 @@
         "Porkbun LLC": 2,
         "Porkbun, LLC": 2,
         "Spaceship, Inc.": 2,
-        "TLD Registrar Solutions Ltd.": 2,
         "Tucows.com Co.": 2,
         "total": 86
     },
@@ -31,7 +30,7 @@
         "GMO Internet Group, Inc. d/b/a Onamae.com": 9.30232558139535,
         "GNAME.COM PTE. LTD.": 2.3255813953488373,
         "Global Domain Group LLC": 2.3255813953488373,
-        "Gname.com Pte. Ltd.": 16.27906976744186,
+        "Gname.com Pte. Ltd.": 18.6046511627907,
         "HOSTINGER operations, UAB": 6.976744186046512,
         "NAMEMART PTE. LTD.": 2.3255813953488373,
         "NameCheap, Inc.": 9.30232558139535,
@@ -43,7 +42,6 @@
         "Porkbun LLC": 2.3255813953488373,
         "Porkbun, LLC": 2.3255813953488373,
         "Spaceship, Inc.": 2.3255813953488373,
-        "TLD Registrar Solutions Ltd.": 2.3255813953488373,
         "Tucows.com Co.": 2.3255813953488373,
         "total": 100.0
     }
