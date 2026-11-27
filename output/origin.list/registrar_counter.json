@@ -3,7 +3,6 @@
         "8648255 CANADA LTD. O/A Dynadot LLC": 2,
         "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 2,
         "Atak Domain Bilgi Teknolojileri A.Ş.": 2,
-        "CommuniGal Communication Ltd.": 2,
         "Dominet (HK) Limited": 2,
         "Dynadot Inc": 4,
         "GMO Internet Group, Inc. d/b/a Onamae.com": 8,
@@ -20,7 +19,7 @@
         "P.A. Viet Nam Company Limited": 4,
         "Porkbun LLC": 2,
         "Porkbun, LLC": 2,
-        "Spaceship, Inc.": 2,
+        "Spaceship, Inc.": 4,
         "TLD Registrar Solutions Ltd.": 2,
         "total": 84
     },
@@ -28,7 +27,6 @@
         "8648255 CANADA LTD. O/A Dynadot LLC": 2.380952380952381,
         "Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)": 2.380952380952381,
         "Atak Domain Bilgi Teknolojileri A.Ş.": 2.380952380952381,
-        "CommuniGal Communication Ltd.": 2.380952380952381,
         "Dominet (HK) Limited": 2.380952380952381,
         "Dynadot Inc": 4.761904761904762,
         "GMO Internet Group, Inc. d/b/a Onamae.com": 9.523809523809524,
@@ -45,7 +43,7 @@
         "P.A. Viet Nam Company Limited": 4.761904761904762,
         "Porkbun LLC": 2.380952380952381,
         "Porkbun, LLC": 2.380952380952381,
-        "Spaceship, Inc.": 2.380952380952381,
+        "Spaceship, Inc.": 4.761904761904762,
         "TLD Registrar Solutions Ltd.": 2.380952380952381,
         "total": 100.0
     }
